@@ -36,3 +36,48 @@
     transform: rotate(360deg);
   }
 }
+
+
+body{
+  margin: 0;
+  padding: 0;
+
+}
+
+.navbar{
+  width: 100%;
+  height: 80px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: slateblue;
+}
+
+.navbar .links {
+  text-align: center;
+  margin-right: 30px;
+  color: orange;
+  text-decoration: none;
+  border: 1px;
+  border-color: white;
+  background-color: rgb(255, 255, 255);
+  border-radius: 20px;
+  padding: 5px;
+}
+
+.user p{
+  font-size: 15px;
+  margin-right: 10px;
+  color: orange;
+}
+
+.user img{
+  font-size: 15px;
+  border-radius: 10%;
+}
+
+.heading{
+  padding-right: 800px;
+}
+
+
