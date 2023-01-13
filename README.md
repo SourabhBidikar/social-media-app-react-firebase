@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# Getting Started with social-media-app-react-firebase
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
